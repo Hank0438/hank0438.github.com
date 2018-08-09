@@ -5,7 +5,7 @@ description: "a new graduate in CS"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://github.com/Hank0438
+url: https://hank0438.github.io
 feed:
   path: atom.xml
 
